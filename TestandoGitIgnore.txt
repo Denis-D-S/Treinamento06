@@ -1,1 +1,1 @@
-mudei o arquivo
+testando gitignore mudando o arquivo
