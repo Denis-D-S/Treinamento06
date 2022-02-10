@@ -1,0 +1,91 @@
+
+--
+
+CRIANDO DIRETÓRIO
+-pwd
+-git init
+-git remote add origin <link do site>
+-git add .
+git commit -m "primeiro commit"
+git branch -M master
+git push -u origin master
+
+-
+
+OLHANDO O TRABALHO
+-git status
+-git branch --list
+-ls
+-ls -al
+
+-
+
+CRIANDO OUTRAS BRANCHS
+-git branch second
+-git branch third
+-git branch --list
+-git branch -d <nome da branch>
+-git checkout second
+
+-gitk --all
+
+-
+
+TESTANDO GITIGNORE
+-touch .gitignore
+
+-git log
+
+-
+
+TESTANDO GIT STASH
+-git stash
+-git stash pop
+
+-
+
+TESTANDO O CHERRY PICK
+-git cherry-pick <log que vc deseja>
+
+-
+
+TESTANDO O GIT MERGE
+-git merge <nome da branch>
+
+-
+
+TESTANDO O GIT REBASE
+-git rebase <nome da branch>
+-git rebase --continue
+-git rebase --abort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
